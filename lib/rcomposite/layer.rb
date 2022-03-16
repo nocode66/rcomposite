@@ -45,7 +45,7 @@ module RComposite
       end
 
       if @image
-        @image.matte = true
+        #@image.matte = true
         @mode = Normal
         @offset_x = 0
         @offset_y = 0
